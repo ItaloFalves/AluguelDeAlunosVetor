@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\bin\Debug\net8.0\AluguelDeAlunosVetor.exe
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\bin\Debug\net8.0\AluguelDeAlunosVetor.deps.json
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\bin\Debug\net8.0\AluguelDeAlunosVetor.runtimeconfig.json
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\bin\Debug\net8.0\AluguelDeAlunosVetor.dll
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\bin\Debug\net8.0\AluguelDeAlunosVetor.pdb
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.dll
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\refint\AluguelDeAlunosVetor.dll
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.pdb
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\AluguelDeAlunosVetor.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\AluguelDeAlunosVetor\AluguelDeAlunosVetor\AluguelDeAlunosVetor\obj\Debug\net8.0\ref\AluguelDeAlunosVetor.dll
